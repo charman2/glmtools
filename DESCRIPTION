@@ -20,7 +20,7 @@ Copyright: This software is in the public domain because it contains materials
     http://www.usgs.gov/visual-id/credit_usgs.html#copyright
 Depends:
     R (>= 3.0),
-    GLMr,
+    GLM3r,
     rLakeAnalyzer (>= 1.8.3)
 Imports:
     ncdf4,

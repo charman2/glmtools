@@ -12,7 +12,7 @@ library(knitr)
 
 ## ---------------------------------------------------------
 library(glmtools)
-eg_folder = system.file('extdata', package = 'GLMr')
+eg_folder = system.file('extdata', package = 'GLM3r')
 print(eg_folder) # location of example data
 
 ## ---------------------------------------------------------
@@ -22,7 +22,7 @@ dir(eg_folder)
 #  glm_version()
 
 ## ---------------------------------------------------------
-citation('GLMr')
+citation('GLM3r')
 
 ## ---- eval=FALSE------------------------------------------
 #  source("http://owi.usgs.gov/R/add_gran_repo.R")

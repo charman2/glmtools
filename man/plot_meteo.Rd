@@ -8,7 +8,7 @@ plot_meteo(nml_file, fig_path = FALSE)
 }
 \arguments{
 \item{nml_file}{a string with the path to the GLM glm2.nml file, or 
-\code{'template'} for loading the GLM template nml file with GLMr (default)}
+\code{'template'} for loading the GLM template nml file with GLM3r (default)}
 
 \item{fig_path}{FALSE if plot to screen, string path if save plot as .png}
 }

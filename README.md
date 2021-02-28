@@ -70,7 +70,7 @@ This version requires the NetCDF version R library (called `ncdf4`), and `rLakeA
 | package       | version     |
 |:--------------|:------------|
 | R             | &gt;= 3.0   |
-| GLMr          | \*          |
+| GLM3r          | \*          |
 | rLakeAnalyzer | &gt;= 1.8.3 |
 | ncdf4         | \*          |
 | tools         | \*          |
